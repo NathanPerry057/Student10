@@ -4,9 +4,14 @@ import java.util.Scanner;
 
 public class student {
 
-    public static void main(String[]  args) {
+    String firstName;
+    String secondName;
+    String email;
+    String course;
 
-        System.out.println("Please enter the name of student 1");
-        Scanner input = new Scanner(System.in);
+    public student() {
+        Scanner in = new Scanner(System.in);
+        System.out.print("Enter students first name:" );
+        this.firstName = in.nextLine();
     }
 }
