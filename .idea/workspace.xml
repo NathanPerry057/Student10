@@ -4,8 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ce5ec590-439e-410c-bc8b-bc3172878137" name="Changes" comment="Asks user to enter a student name">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="ce5ec590-439e-410c-bc8b-bc3172878137" name="Changes" comment="Added class to student class that prompts user for first name">
       <change beforePath="$PROJECT_DIR$/src/main/java/ie/atu/week5/student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ie/atu/week5/student.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -61,7 +60,21 @@
       <option name="project" value="LOCAL" />
       <updated>1666912885655</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Added class to student class that prompts user for first name">
+      <created>1666913696630</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1666913696630</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Added class to student class that prompts user for first name">
+      <created>1666913706836</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1666913706836</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -78,6 +91,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Added a student class" />
     <MESSAGE value="Asks user to enter a student name" />
-    <option name="LAST_COMMIT_MESSAGE" value="Asks user to enter a student name" />
+    <MESSAGE value="Added class to student class that prompts user for first name" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added class to student class that prompts user for first name" />
   </component>
 </project>
