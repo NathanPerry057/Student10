@@ -9,19 +9,34 @@ public class student {
     String email;
     String course;
 
-    public student() {
-        Scanner in = new Scanner(System.in);
-        System.out.print("Enter students first name:" );
-        this.firstName = in.nextLine();
+    public static void main(String[] args) {
 
 
-        System.out.print("Enter students second name: ");
-        this.secondName = in.nextLine();
 
-        System.out.print("Enter student email:");
-        this.email = in.nextLine();
+    }
 
-        System.out.print("Enter student course ");
-        this.course = in.nextLine();
+    public void setFirstName(String firstName) {
+        this.firstName = firstName;
+    }
+    public String getFirstName() {
+        return firstName;
+    }
+    public void setSecondName(String secondName) {
+        this.secondName = secondName;
+    }
+    public String getSecondName() {
+        return secondName;
+    }
+    public void setEmail(String email) {
+        this.email = email;
+    }
+    public String getEmail() {
+        return email;
+    }
+    public void setCourse(String course) {
+        this.course = course;
+    }
+    public String getCourse() {
+        return course;
     }
 }
