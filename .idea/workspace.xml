@@ -4,8 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ce5ec590-439e-410c-bc8b-bc3172878137" name="Changes" comment="Add student email and course prompts for the user">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="ce5ec590-439e-410c-bc8b-bc3172878137" name="Changes" comment="Added the getters and setters for the student information">
       <change beforePath="$PROJECT_DIR$/src/main/java/ie/atu/week5/student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ie/atu/week5/student.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -82,7 +81,14 @@
       <option name="project" value="LOCAL" />
       <updated>1666913920389</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Added the getters and setters for the student information">
+      <created>1666915844875</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1666915844875</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -101,6 +107,7 @@
     <MESSAGE value="Asks user to enter a student name" />
     <MESSAGE value="Added class to student class that prompts user for first name" />
     <MESSAGE value="Add student email and course prompts for the user" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add student email and course prompts for the user" />
+    <MESSAGE value="Added the getters and setters for the student information" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added the getters and setters for the student information" />
   </component>
 </project>

@@ -9,8 +9,10 @@ public class student {
     String email;
     String course;
 
-    public static void main(String[] args) {
-
+    public void main(String[] args) {
+    Scanner s = new Scanner(System.in);
+    System.out.println("Enter student first name: ");
+    setFirstName(s.nextLine());
 
 
     }
